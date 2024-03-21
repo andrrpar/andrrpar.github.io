@@ -2,7 +2,7 @@
     "name": "Funny Jokes",
     "short_name": "Jokes",
     "description": "It is alot of funny jokes that are a mouse click away",
-    "start_url": "http://127.0.0.1:5500/joke.html",
+    "start_url": "https://andrrpar.github.io/joke.html",
     "theme_color": "#f2f2f2",
     "background_color": "#f2f2f2",
     "display": "minimal-ui",
